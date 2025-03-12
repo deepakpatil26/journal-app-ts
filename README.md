@@ -2,7 +2,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **[Live App on Vercel](https://react-journal-app-pied.vercel.app/)** _(Replace with your actual deployed link)_
+🔗 **[Live App on Vercel](https://journal-app-ts.vercel.app/)**
 
 ## 📌 Overview
 
