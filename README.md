@@ -17,9 +17,13 @@ The **React Journal App** is a minimal and elegant journal entry application tha
 ## ✨ Features
 
 ✅ Add, View, and Delete Journal Entries
+
 ✅ Emotion Selection with Emoticons
+
 ✅ Local Storage for Data Persistence
+
 ✅ Animated & Responsive UI
+
 ✅ Styled with TailwindCSS & Icons
 
 ## 🖼️ Screenshots
