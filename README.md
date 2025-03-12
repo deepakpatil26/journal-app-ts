@@ -40,8 +40,8 @@ The **React Journal App** is a minimal and elegant journal entry application tha
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/deepakpatil26/react-journal-app.git
-cd react-journal-app
+git clone https://github.com/deepakpatil26/journal-app-ts.git
+cd journal-app-ts
 ```
 
 ### 2️⃣ Install Dependencies
