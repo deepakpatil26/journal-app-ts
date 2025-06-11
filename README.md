@@ -29,6 +29,7 @@ The **React Journal App** is a minimal and elegant journal entry application tha
 ## 🖼️ Screenshots
 
 ![Journal App Screenshot](<src/assets/Screenshot (56).png>)
+
 <!-- _(Replace with actual screenshot URL)_ -->
 
 ## 🛠️ Tech Stack
