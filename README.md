@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-<div align="center">
+<div align="left">
   <img src="src/assets/logo.png" alt="React Journal App Logo" width="100" height="100"/>
 </div>
 
