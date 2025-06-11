@@ -6,7 +6,9 @@
 
 ## 📌 Overview
 
-![React Journal App Logo](src/assets/logo.png)
+<div align="center">
+  <img src="src/assets/logo.png" alt="React Journal App Logo" width="100" height="100"/>
+</div>
 
 The **React Journal App** is a minimal and elegant journal entry application that allows users to:
 
