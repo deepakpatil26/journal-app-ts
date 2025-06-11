@@ -6,6 +6,8 @@
 
 ## 📌 Overview
 
+![React Journal App Logo](src/assets/logo.png)
+
 The **React Journal App** is a minimal and elegant journal entry application that allows users to:
 
 - 📜 Add new journal entries with a title, emotion, and body content.
